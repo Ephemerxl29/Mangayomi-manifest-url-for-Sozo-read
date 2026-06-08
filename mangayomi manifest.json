@@ -18,11 +18,11 @@
       "apiUrl": "https://royalroad.com",
       "version": "0.0.1",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 0,
+      "sourceCodeLanguage": "0",
       "notes": ""
     },
     {
@@ -40,11 +40,11 @@
       "apiUrl": "",
       "version": "0.0.1",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": ""
     },
     {
@@ -62,11 +62,11 @@
       "apiUrl": "",
       "version": "0.0.2",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.6.1",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": "EPUBs are automatically downloaded to view chapters! Downloads from Libgen might be slow!"
     },
     {
@@ -84,11 +84,11 @@
       "apiUrl": "",
       "version": "0.0.1",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": ""
     },
     {
@@ -106,11 +106,11 @@
       "apiUrl": "",
       "version": "0.0.1",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": ""
     },
     {
@@ -128,11 +128,11 @@
       "apiUrl": "",
       "version": "0.0.5",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": "This extension requires you to login to view the chapters!"
     },
     {
@@ -150,11 +150,11 @@
       "apiUrl": "",
       "version": "1.0.1",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": ""
     },
     {
@@ -172,11 +172,11 @@
       "apiUrl": "",
       "version": "0.0.4",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": ""
     },
     {
@@ -194,11 +194,11 @@
       "apiUrl": "",
       "version": "0.0.1",
       "isManga": false,
-      "itemType": 2,
+      "itemType": "2",
       "isFullData": false,
       "appMinVerReq": "0.5.0",
       "additionalParams": "",
-      "sourceCodeLanguage": 1,
+      "sourceCodeLanguage": "1",
       "notes": ""
     }
   ]
