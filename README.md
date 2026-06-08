@@ -1,0 +1,1 @@
+# Mangayomi-manifest-url-for-Sozo-read
