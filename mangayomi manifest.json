@@ -5,7 +5,7 @@
   "sources": [
     {
       "name": "RoyalRoad",
-      "id": 1021112861,
+      "id": "1021112861",
       "baseUrl": "https://royalroad.com",
       "lang": "en",
       "typeSource": "single",
@@ -27,7 +27,7 @@
     },
     {
       "name": "ملوك الروايات",
-      "id": 756554088,
+      "id": "756554088",
       "baseUrl": "https://kolnovel.com",
       "lang": "ar",
       "typeSource": "single",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Annas Archive",
-      "id": 114216145,
+      "id": "114216145",
       "baseUrl": "https://annas-archive.li",
       "lang": "en",
       "typeSource": "single",
@@ -71,7 +71,7 @@
     },
     {
       "name": "bookReadFree",
-      "id": 613318110,
+      "id": "613318110",
       "baseUrl": "https://bookreadfree.com",
       "lang": "en",
       "typeSource": "single",
@@ -93,7 +93,7 @@
     },
     {
       "name": "RoyalRoad",
-      "id": 626511881,
+      "id": "626511881",
       "baseUrl": "https://www.royalroad.com",
       "lang": "en",
       "typeSource": "single",
@@ -115,7 +115,7 @@
     },
     {
       "name": "Novel Updates",
-      "id": 413730324,
+      "id": "413730324",
       "baseUrl": "https://www.novelupdates.com",
       "lang": "en",
       "typeSource": "single",
@@ -137,7 +137,7 @@
     },
     {
       "name": "Web Novel Translations",
-      "id": 1063819370,
+      "id": "1063819370",
       "baseUrl": "https://webnoveltranslations.com",
       "lang": "en",
       "typeSource": "single",
@@ -159,7 +159,7 @@
     },
     {
       "name": "Wordrain69",
-      "id": 422341482,
+      "id": "422341482",
       "baseUrl": "https://wordrain69.com",
       "lang": "en",
       "typeSource": "single",
@@ -181,7 +181,7 @@
     },
     {
       "name": "NovelFire",
-      "id": 327690672,
+      "id": "327690672",
       "baseUrl": "https://novelfire.net",
       "lang": "en",
       "typeSource": "single",
