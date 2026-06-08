@@ -1,0 +1,63 @@
+{
+  "name": "Mangayomi Novel Extensions",
+  "author": "m2k3a",
+  "description": "Cleaned extensions for Sozo",
+  "sources": [
+    {
+      "name": "RoyalRoad",
+      "id": "1021112861",
+      "baseUrl": "https://royalroad.com",
+      "lang": "en",
+      "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/novel/src/en/royalroad/icon.png"
+    },
+    {
+      "name": "ملوك الروايات",
+      "id": "756554088",
+      "baseUrl": "https://kolnovel.com",
+      "lang": "ar",
+      "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://kolnovel.com"
+    },
+    {
+      "name": "Annas Archive",
+      "id": "114216145",
+      "baseUrl": "https://annas-archive.li",
+      "lang": "en",
+      "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/icon/all.annasarchive.png"
+    },
+    {
+      "name": "bookReadFree",
+      "id": "613318110",
+      "baseUrl": "https://bookreadfree.com",
+      "lang": "en",
+      "iconUrl": "https://cdn.pixabay.com/photo/2016/09/16/09/20/books-1673578_1280.png"
+    },
+    {
+      "name": "Novel Updates",
+      "id": "413730324",
+      "baseUrl": "https://www.novelupdates.com",
+      "lang": "en",
+      "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/icon/en.novelupdates.png"
+    },
+    {
+      "name": "Web Novel Translations",
+      "id": "1063819370",
+      "baseUrl": "https://webnoveltranslations.com",
+      "lang": "en",
+      "iconUrl": "https://raw.githubusercontent.com/entityJY/mangayomi-extensions-eJ/main/javascript/icon/en.webnoveltranslations.png"
+    },
+    {
+      "name": "Wordrain69",
+      "id": "422341482",
+      "baseUrl": "https://wordrain69.com",
+      "lang": "en",
+      "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/icon/en.wordrain69.png"
+    },
+    {
+      "name": "NovelFire",
+      "id": "327690672",
+      "baseUrl": "https://novelfire.net",
+      "lang": "en",
+      "iconUrl": "https://m.media-amazon.com/images/I/31957gKv8WL.jpg"
+    }
+  ]
+}
